@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+TASKDATA=${TASKDATA:-"$XDG_DATA_HOME/task"}
+TASKRC=${TASKRC:-"$XDG_CONFIG_HOME/task/taskrc"}

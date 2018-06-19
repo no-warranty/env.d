@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+
+PSQLRC=${PSQLRC:-"$XDG_CONFIG_HOME/pg/psqlrc"}
+
+PSQL_HISTORY=${PSQL_HISTORY:-"$XDG_CACHE_HOME/pg/psql_history"}
+
+PGPASSFILE=${PGPASSFILE:-"$XDG_CONFIG_HOME/pg/pgpass"}
+
+PGSERVICEFILE=${PGSERVICEFILE:-"$XDG_CONFIG_HOME/pg/pg_service.conf"}

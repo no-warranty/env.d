@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+TERMINFO=${TERMINFO:-"$XDG_DATA_HOME/terminfo"}
+
+TERMINFO_DIRS=${TERMINFO_DIRS:-"$XDG_DATA_HOME/terminfo:/usr/share/terminfo"}

@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+HOMEBREW_HOME=${HOMEBREW_HOME:-"$XDG_OPT_HOME/homebrew"}

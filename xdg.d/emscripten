@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+
+EM_CONFIG=${EM_CONFIG:-"$XDG_CONFIG_HOME/emscripten/config"}
+
+EM_CACHE=${EM_CACHE:-"$XDG_CACHE_HOME/emscripten/cache"}
+
+EM_PORTS=${EM_PORTS:-"$XDG_DATA_HOME/emscripten/cache"}

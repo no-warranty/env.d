@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+ZDOTDIR=${ZDOTDIR:-"$XDG_CONFIG_HOME/zsh"}
+HISTFILE=${HISTFILE:-"$XDG_DATA_HOME/zsh/history"}

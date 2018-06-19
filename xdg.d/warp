@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+WD_CONFIG=${WD_CONFIG:-"$XDG_CONFIG_HOME/warp/.warprc"}

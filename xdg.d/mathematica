@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+MATHEMATICA_USERBASE=${MATHEMATICA_USERBASE:-"$XDG_CONFIG_HOME/mathematica"}

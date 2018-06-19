@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+PARALLEL_HOME=${PARALLEL_HOME:-"$XDG_CONFIG_HOME/parallel"}

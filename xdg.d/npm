@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+NPM_CONFIG_USERCONFIG=${NPM_CONFIG_USERCONFIG:-"$XDG_CONFIG_HOME/npm/npmrc"}
+
+npm_config_devdir=${npm_config_devdir:-"$XDG_CACHE_HOME/node-gyp"}

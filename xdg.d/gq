@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+GQRC=${GQRC:-"$XDG_CONFIG_HOME/gq/gqrc"}
+GQSTATE=${GQSTATE:-"$XDG_DATA_HOME/gq/gq-state"}

@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+UNISON=${UNISON:-"$XDG_DATA_HOME/unison"}

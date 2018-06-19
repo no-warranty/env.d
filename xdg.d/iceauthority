@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+ICEAUTHORITY=${ICEAUTHORITY:-"$XDG_RUNTIME_DIR/ICEauthority"}

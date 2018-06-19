@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+GRADLE_HOME=${GRADLE_HOME:-"$XDG_OPT_HOME/gradle"}
+
+GRADLE_USER_HOME=${GRADLE_USER_HOME:-"$XDG_DATA_HOME/gradle"}

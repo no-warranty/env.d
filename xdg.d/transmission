@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+TRANSMISSION_HOME=${TRANSMISSION_HOME:-"$XDG_CONFIG_HOME/transmission"}

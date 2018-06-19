@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+TMUX_TMPDIR=${TMUX_TMPDIR:-"$XDG_RUNTIME_DIR"}

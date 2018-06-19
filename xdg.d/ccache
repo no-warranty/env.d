@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+CCACHE_DIR=${CCACHE_DIR:-"$XDG_CACHE_HOME/ccache"}

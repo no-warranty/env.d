@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+SCREENRC=${SCREENRC:-"$XDG_CONFIG_HOME/screen/screenrc"}

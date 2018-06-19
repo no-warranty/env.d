@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+ANDROID_SDK_HOME=${ANDROID_SDK_HOME:-"$XDG_CONFIG_HOME/android"}

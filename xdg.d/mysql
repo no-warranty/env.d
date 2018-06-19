@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+MYSQL_HISTFILE=${MYSQL_HISTFILE:-"$XDG_DATA_HOME/mysql_history"}

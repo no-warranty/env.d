@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+RANDFILE=${RANDFILE:-"$XDG_CACHE_HOME/openssl/.rnd"}

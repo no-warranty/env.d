@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+UNCRUSTIFY_CONFIG=${UNCRUSTIFY_CONFIG:-"$XDG_CONFIG_HOME/uncrustify/uncrustify.cfg"}

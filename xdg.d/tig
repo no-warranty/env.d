@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+TIGRC_USER=${TIGRC_USER:-"$XDG_CONFIG_HOME/tig/tigrc"}

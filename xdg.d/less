@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+LESSHISTFILE=${LESSHISTFILE:-"$XDG_CACHE_HOME/less/history"}
+LESSKEY=${LESSKEY:-"$XDG_CONFIG_HOME/less/lesskey"}

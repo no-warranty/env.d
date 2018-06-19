@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+GETIPLAYERUSERPREFS=${GETIPLAYERUSERPREFS:-"$XDG_DATA_HOME/get_iplayer"}

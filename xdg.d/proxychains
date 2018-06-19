@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+PROXYCHAINS_CONF_FILE=${PROXYCHAINS_CONF_FILE:-"$XDG_CONFIG_HOME/proxychains"}

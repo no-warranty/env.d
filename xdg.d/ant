@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+ANT_HOME=${ANT_HOME:-"$XDG_OPT_HOME/ant"}

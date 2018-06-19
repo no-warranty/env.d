@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+WINEPREFIX=${WINEPREFIX:-"$XDG_DATA_HOME/wineprefixes/default"}

@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+XAUTHORITY=${XAUTHORITY:-"$XDG_RUNTIME_DIR/Xauthority"}

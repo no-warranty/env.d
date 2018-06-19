@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+WEECHAT_HOME=${WEECHAT_HOME:-"$XDG_CONFIG_HOME/weechat"}

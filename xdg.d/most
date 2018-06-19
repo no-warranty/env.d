@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+MOST_INITFILE=${MOST_INITFILE:-"$XDG_CONFIG_HOME/mostrc"}

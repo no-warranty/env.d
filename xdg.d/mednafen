@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+MEDNAFEN_HOME=${MEDNAFEN_HOME:-"$XDG_CONFIG_HOME/mednafen"}

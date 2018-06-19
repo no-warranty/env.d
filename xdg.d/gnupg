@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+GNUPGHOME=${GNUPGHOME:-"$XDG_CONFIG_HOME/gnupg"}

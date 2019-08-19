@@ -23,8 +23,8 @@ export XDG_TEMPLATES_DIR=${XDG_TEMPLATES_DIR:-"$HOME/Templates"}
 export XDG_VIDEOS_DIR=${XDG_VIDEOS_DIR:-"$HOME/Videos"}
 
 set -a
-if [ -d "$XDG_CONFIG_HOME/shell/env.d/xdg.d/" ]; then
-  for i in $XDG_CONFIG_HOME/shell/env.d/xdg.d/* ; do
+if [ -d "$XDG_CONFIG_HOME/sh/env.d/xdg.d/" ]; then
+  for i in $XDG_CONFIG_HOME/sh/env.d/xdg.d/* ; do
     if [ -r $i ] ; then . $i ; fi
   done
   unset i

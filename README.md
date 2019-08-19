@@ -13,8 +13,8 @@ Inspiration for this came from
 
 Add the following snippet to a POSIX compliant shell startup files:
 ```sh
-if [ -d "$XDG_CONFIG_HOME/shell/env.d" ]; then
-  for i in $XDG_CONFIG_HOME/shell/env.d/* ; do
+if [ -d "$XDG_CONFIG_HOME/sh/env.d" ]; then
+  for i in $XDG_CONFIG_HOME/sh/env.d/* ; do
     if [[ -f $i && -r $i ]] ; then . $i ; fi
   done ; unset i
 fi

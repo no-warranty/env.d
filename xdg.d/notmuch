@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+NOTMUCH_CONFIG=${NOTMUCH_CONFIG:-"$XDG_CONFIG_HOME/notmuch/notmuchrc"}
+
+NMBGIT=${NMBGIT:-"$XDG_DATA_HOME/notmuch/nmbug"}

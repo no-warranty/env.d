@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+ELINKS_CONFDIR=${ELINKS_CONFDIR:-"$XDG_CONFIG_HOME/elinks"}

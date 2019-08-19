@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+ACKRC=${ACKRC:-"$XDG_CONFIG_HOME/ack/rc"}

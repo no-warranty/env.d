@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+DENO_DIR=${DENO_DIR:-"$XDG_CACHE_HOME/deno"}

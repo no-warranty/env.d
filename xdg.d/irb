@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+IRBRC=${IRBRC:-"$XDG_CONFIG_HOME/irb/irbrc"}

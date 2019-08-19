@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+IDAUSR=${IDAUSR:-"$XDG_CONFIG_HOME/idapro"}

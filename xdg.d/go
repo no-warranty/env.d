@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+GOPATH=${GOPATH:-"$XDG_DATA_HOME/go"}

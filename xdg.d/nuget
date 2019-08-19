@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+NUGET_PACKAGES=${NUGET_PACKAGES:-"$XDG_CACHE_HOME/NuGetPackages"}
